@@ -1,5 +1,3 @@
-# Imran's DevOps Profile
-
 ## Introduction
 Hello! I'm Imran, a dedicated DevOps Engineer with 3 years of hands-on experience in crafting and managing cutting-edge infrastructure and applications. My journey in the tech world revolves around leveraging modern tools and methodologies to streamline development processes and enhance system reliability.
 
