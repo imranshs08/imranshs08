@@ -26,8 +26,8 @@ Hello! I'm Imran, a dedicated DevOps Engineer with 3 years of hands-on experienc
 ### Scripting/Programming:
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-## 📊 GitHub Stats & Streak:
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranshs08&theme=dark&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=20) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranshs08&theme=dark)
+## 📊 GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranshs08&theme=dark)
 
 ## 📧 Email:
 Feel free to reach out via email at: imranshs08@gmail.com
