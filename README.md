@@ -58,7 +58,7 @@ Automated infrastructure for AWS & Azure using Terraform modules.
 
 ## 🧠 Current Focus
 
-- 📘 Preparing for DevOps job change – Deep diving into Kubernetes, Jenkins Pipelines, Azure, and Terraform.
+- 📘 Deep diving into Kubernetes, Jenkins Pipelines, Azure, and Terraform.
 - 📅 Tracking my DevOps study progress weekly via GitHub repo.
 - 📈 Sharpening GitOps, observability, and cloud-native security skills.
 
