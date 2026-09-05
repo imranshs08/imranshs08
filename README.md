@@ -51,7 +51,7 @@ I am currently executing a rigorous 5-month career accelerator program, document
 ## 📈 GitHub Stats
 
 ![Imran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranshs08&theme=dark)
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranshs08&show_icons=true&theme=dark&hide=contribs&count_private=true)
+![Imran's GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=imranshs08&show_icons=true&theme=dark&hide=contribs&count_private=true)
 
 ---
 
