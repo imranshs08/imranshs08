@@ -1,6 +1,6 @@
 # 👨‍💻 Imran Ahmad — Senior DevOps & AI Platform Engineer (In Training)
 
-Hi! I’m Imran, a passionate **DevOps Engineer with 4 years of experience** transitioning aggressively into an **AI-driven Platform Engineering** role in 2027. I specialize in building highly resilient infrastructure, optimizing CI/CD pipelines, and integrating AI Agents into operational workflows. 
+Hi! I’m Imran, a passionate **DevOps Engineer with 5 years of experience** transitioning aggressively into an **AI-driven Platform Engineering** role in 2027. I specialize in building highly resilient infrastructure, optimizing CI/CD pipelines, and integrating AI Agents into operational workflows. 
 
 I believe great engineering goes beyond uptime—it's about **Zero-Trust security, hyper-efficiency, and autonomous systems**.
 
